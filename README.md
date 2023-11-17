@@ -19,6 +19,8 @@ I am a web application developer with a strong background in Microsoft stack.
 ---
 
 
+[![edwardgreenwood38's GitHub | Stats](https://stats.quine.sh/edwardgreenwood38/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=edwardgreenwood38)
+
 - 📫 How to reach me ...
 
 <!---
