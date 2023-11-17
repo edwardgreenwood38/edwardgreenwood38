@@ -1,8 +1,8 @@
 # Hi, I’m Edward
 
-I’m currently learning React to add to my knowledge.
+I’m currently enrolled in North Carolina State Software Development course.
 
-![react-original-wordmark](https://user-images.githubusercontent.com/17100578/185814897-5b160d9a-e0b1-45be-b002-ff60ebe5e5c2.png)
+
 
 ---
 I am a web application developer with a strong background in Microsoft stack.
