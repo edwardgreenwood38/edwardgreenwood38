@@ -21,6 +21,8 @@ I am a software application developer with a strong background in C#, .Net Frame
 
 [![edwardgreenwood38's GitHub | Stats](https://stats.quine.sh/edwardgreenwood38/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=edwardgreenwood38)
 
+[![edwardgreenwood38's GitHub | Languages Over Time](https://stats.quine.sh/edwardgreenwood38/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=edwardgreenwood38)
+
 
 
 - 📫 How to reach me ...
