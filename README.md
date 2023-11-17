@@ -5,7 +5,7 @@ I’m currently enrolled in North Carolina State Software Development course.
 
 
 ---
-I am a web application developer with a strong background in Microsoft stack.
+I am a software application developer with a strong background in C#, .Net Framework, HTML, CSS and Javascript.
 
 ![html5-original-wordmark](https://user-images.githubusercontent.com/17100578/185814623-9d1d3dab-e060-481f-b497-b4c8e878c756.png)
 ![css3-original-wordmark](https://user-images.githubusercontent.com/17100578/185814680-707257a0-a879-4950-bf78-9b29b6cd42bd.png)
