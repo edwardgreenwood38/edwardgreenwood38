@@ -1,6 +1,6 @@
 # Hi, I’m Edward
 
-I’m currently enrolled in North Carolina State Software Development course.
+I’m currently enrolled in ThriveDX Software Development Bootcamp course thru North Carolina State Univercity.
 
 
 
